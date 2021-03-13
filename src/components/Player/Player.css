@@ -1,0 +1,11 @@
+.player{
+    border: 2px solid green;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    height: 400px;
+    width: 300px;
+}
+.player img{
+    height: 200px
+}
